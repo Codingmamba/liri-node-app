@@ -9,9 +9,9 @@ To retrieve the data that will power this app, you'll need to send requests to t
 
 Node Package Managers(NPMs) used:
 
-Twitter - https://www.npmjs.com/package/twitter
+Twitter - https://www.npmjs.com/package/twit
 
-Spotify - https://www.npmjs.com/package/spotify
+Spotify - https://www.npmjs.com/package/node-spotify-api
 
 Request - https://www.npmjs.com/package/request
 
